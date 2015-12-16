@@ -1,4 +1,4 @@
-package common
+package priority_queue
 
 import (
 	"testing"
