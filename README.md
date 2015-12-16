@@ -4,11 +4,11 @@ priority-queue is a priority queue based on golang container/heap.
 
 # Explation
 
-**Node**: node is the unit insert to queue. Node has attributes  
-    *Key*:      key associated with node, can be nil  
-    *value*:    value of key, can be nil  
-    *Priority*: priority of node  
-    *Index*:    index in queue  
+**Node**: node is the unit insert to queue. Node has attributes:  
+    Key:      key associated with node, can be nil  
+    value:    value of key, can be nil  
+    *Priority:priority of node  
+    Index:    index in queue  
 
 # API
 
